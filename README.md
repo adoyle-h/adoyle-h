@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=32&duration=2500&color=0C82FF&vCenter=true&multiline=true&repeat=false&width=520&height=100&lines=Hi%2C+I'm+ADoyle;A+Full-Stack+%26+DevOps+Engineer)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adoyle-h&show_icons=true&theme=ayu-mirage&bg_color=3B3B3F&text_color=E3E3E1&custom_title=Github+Stats&card_width=400&line_height=24&hide_border=true)
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoyle-h&langs_count=8&theme=ayu-mirage&bg_color=3B3B3F&text_color=E3E3E1&layout=compact&hide_border=true&custom_title=Most+Used+Languages&hide=HTML,CSS,Perl,Makefile)
+![GitHub Stats](https://github-readme-stats-adoyle-h.vercel.app/api?username=adoyle-h&show_icons=true&theme=ayu-mirage&bg_color=3B3B3F&text_color=E3E3E1&custom_title=Github+Stats&card_width=400&line_height=24&hide_border=true)
+![Most Used Langs](https://github-readme-stats-adoyle-h.vercel.app/api/top-langs/?username=adoyle-h&langs_count=8&theme=ayu-mirage&bg_color=3B3B3F&text_color=E3E3E1&layout=compact&hide_border=true&custom_title=Most+Used+Languages&hide=HTML,CSS,Perl,Makefile)
 
 ## 🛠️ Languages and Tools
 
@@ -65,7 +65,7 @@ My email and other social accounts.
 
 If my code has helped you, please consider sponsoring me.
 
-<details><summary>Click to expand</summary>
+<details><summary>Click to expand the list of donation channels.</summary>
 
 <div align="center">
   <img src="https://media.githubusercontent.com/media/adoyle-h/_imgs/master/sponsor.png" alt="Sponsor Me" width="300" height="300" />
@@ -84,48 +84,46 @@ If my code has helped you, please consider sponsoring me.
 
 📌 我正在构建纯技术交流的中文论坛 [Tech Talks](https://github.com/just-talks/tech-talks)，一起来吗？
 
-A list of projects that you may be interested in.
-
-<details><summary>Click to expand</summary>
+<details><summary>Click to expand the list of projects that you may be interested in.</summary>
 
 ### Others
 
-[![makefile-utils](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=makefile-utils&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/makefile-utils)
-[![my-development-tools](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=my-development-tools&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/my-development-tools)
-[![blog](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=blog&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/blog)
-[![Today-I-Learned](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=Today-I-Learned&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/Today-I-Learned)
+[![makefile-utils](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=makefile-utils&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/makefile-utils)
+[![my-development-tools](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=my-development-tools&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/my-development-tools)
+[![blog](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=blog&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/blog)
+[![Today-I-Learned](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=Today-I-Learned&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/Today-I-Learned)
 
 ### Shell
 
-[![lobash](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=lobash&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/lobash)
-[![one.bash](https://github-readme-stats.vercel.app/api/pin/?username=one-bash&repo=one.bash&show_owner=true&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/one-bash/one.bash)
-[![one.share](https://github-readme-stats.vercel.app/api/pin/?username=one-bash&repo=one.share&show_owner=true&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/one-bash/one.share)
-[![bash-completor](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=bash-completor&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/bash-completor)
-[![a-bash-prompt](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=a-bash-prompt&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/a-bash-prompt)
-[![tmux-choose-pane](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=tmux-choose-pane&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/tmux-choose-pane)
-[![bash-logger](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=bash-logger&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/bash-logger)
-[![lookup.sh](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=lookup.sh&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/lookup.sh)
-[![shell-general-colors](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=shell-general-colors&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/shell-general-colors)
+[![lobash](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=lobash&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/lobash)
+[![one.bash](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=one-bash&repo=one.bash&show_owner=true&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/one-bash/one.bash)
+[![one.share](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=one-bash&repo=one.share&show_owner=true&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/one-bash/one.share)
+[![bash-completor](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=bash-completor&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/bash-completor)
+[![a-bash-prompt](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=a-bash-prompt&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/a-bash-prompt)
+[![tmux-choose-pane](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=tmux-choose-pane&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/tmux-choose-pane)
+[![bash-logger](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=bash-logger&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/bash-logger)
+[![lookup.sh](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=lookup.sh&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/lookup.sh)
+[![shell-general-colors](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=shell-general-colors&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/shell-general-colors)
 
-Other [shell projects](https://github.com/adoyle-h?tab=repositories&q=&type=source&sort=stargazers&language=shell) maintained by me.
+See other [shell projects](https://github.com/adoyle-h?tab=repositories&q=&type=source&sort=stargazers&language=shell) maintained by me.
 
 ### Neovim
 
-[![one.nvim](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=one.nvim&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/one.nvim)
-[![ad-telescope-extensions.nvim](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=ad-telescope-extensions.nvim&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/ad-telescope-extensions.nvim)
-[![telescope-extension-maker.nvim](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=telescope-extension-maker.nvim&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/telescope-extension-maker.nvim)
-[![lsp-toggle.nvim](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=lsp-toggle.nvim&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/lsp-toggle.nvim)
-[![nvim-shell-completions](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=nvim-shell-completions&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/nvim-shell-completions)
+[![one.nvim](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=one.nvim&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/one.nvim)
+[![ad-telescope-extensions.nvim](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=ad-telescope-extensions.nvim&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/ad-telescope-extensions.nvim)
+[![telescope-extension-maker.nvim](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=telescope-extension-maker.nvim&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/telescope-extension-maker.nvim)
+[![lsp-toggle.nvim](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=lsp-toggle.nvim&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/lsp-toggle.nvim)
+[![nvim-shell-completions](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=nvim-shell-completions&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/nvim-shell-completions)
 
-Other [neovim projects](https://github.com/adoyle-h?tab=repositories&q=&type=source&sort=stargazers&language=lua) maintained by me.
+See other [neovim projects](https://github.com/adoyle-h?tab=repositories&q=&type=source&sort=stargazers&language=lua) maintained by me.
 
 ### NodeJS
 
-[![eslint-config-adoyle-style](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=eslint-config-adoyle-style&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/eslint-config-adoyle-style)
-[![logic-string](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=logic-string&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/logic-string)
-[![Ero.js](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=Ero.js&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/Ero.js)
-[![config-sp](https://github-readme-stats.vercel.app/api/pin/?username=adoyle-h&repo=config-sp&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/config-sp)
+[![eslint-config-adoyle-style](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=eslint-config-adoyle-style&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/eslint-config-adoyle-style)
+[![logic-string](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=logic-string&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/logic-string)
+[![Ero.js](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=Ero.js&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/Ero.js)
+[![config-sp](https://github-readme-stats-adoyle-h.vercel.app/api/pin/?username=adoyle-h&repo=config-sp&bg_color=3B3B3F&text_color=E3E3E1&icon_color=E3E3E1&cache_seconds=7200&hide_border=true)](https://github.com/adoyle-h/config-sp)
 
-Other [JS projects](https://github.com/adoyle-h?tab=repositories&q=&type=source&sort=stargazers&language=javascript) maintained by me.
+See other [JS projects](https://github.com/adoyle-h?tab=repositories&q=&type=source&sort=stargazers&language=javascript) maintained by me.
 
 </details>
