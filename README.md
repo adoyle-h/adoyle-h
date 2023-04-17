@@ -1,7 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=32&duration=2500&color=0C82FF&vCenter=true&multiline=true&repeat=false&width=520&height=100&lines=Hi%2C+I'm+ADoyle;A+Full-Stack+%26+DevOps+Engineer)
 
-![GitHub Stats](https://github-readme-stats-adoyle-h.vercel.app/api?username=adoyle-h&show_icons=true&theme=ayu-mirage&bg_color=3B3B3F&text_color=E3E3E1&custom_title=Github+Stats&card_width=400&line_height=24&hide_border=true)
-![Most Used Langs](https://github-readme-stats-adoyle-h.vercel.app/api/top-langs/?username=adoyle-h&langs_count=8&theme=ayu-mirage&bg_color=3B3B3F&text_color=E3E3E1&layout=compact&hide_border=true&custom_title=Most+Used+Languages&hide=HTML,CSS,Perl,Makefile)
+📌 求职中，[我的简历](https://public.adoyle.top/resume.html)。若有意向请邮件我。
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adoyle-h&show_icons=true&theme=ayu-mirage&bg_color=3B3B3F&text_color=E3E3E1&custom_title=Github+Stats&card_width=400&line_height=24&hide_border=true)
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoyle-h&langs_count=8&theme=ayu-mirage&bg_color=3B3B3F&text_color=E3E3E1&layout=compact&hide_border=true&custom_title=Most+Used+Languages&hide=HTML,CSS,Perl,Makefile)
 
 ## 🛠️ Languages and Tools
 
@@ -37,7 +39,7 @@ More tools listed in [My Dev Toolbox](https://tools.adoyle.me/).
 
 ## 💼 Career
 
-- freelancer (now) (Looking for great job at HangZhou or remote)
+- freelancer (now) **(Looking for great job at HangZhou or remote)**
 - [Aliyun Inc.](https://www.aliyun.com) at HangZhou, China. (2016/05 ~ 2022/02)
   - Polardb Database department. Senior full-stack developer & DevOps. (2018 ~ 2022/02)
   - User Experience Design&Tech department. Senior full-stack developer. (2016/05 ~ 2018)
